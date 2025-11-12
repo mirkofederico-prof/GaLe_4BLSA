@@ -441,7 +441,6 @@ Ora è il momento di farlo sentire al mondo.
 [[Ascolta la tua canzone|MusicaAscolta]]
 
 
-
 :: MusicaAscolta {"position":"625,1650","size":"100,100"}
 Ti chiudi in camera, abbassi le luci e premi *Play*.  
 Le prime note partono lente, poi il ritmo cresce,  
@@ -452,13 +451,12 @@ Hai trasformato la rabbia in qualcosa di vero.
 <p><b>🎶 “Sacrificio” — la tua prima traccia trap.</b></p>
 
 <audio controls autoplay loop preload="auto" style="width:100%; margin-top:10px; border-radius:8px;">
-  <source src="https://mirkofederico-prof.github.io/2LSA/GaLe/Simba%20La%20Rue%20-%20SON%20FATTO%20COS%C3%8C%20(Official%20Video).mp3" type="audio/mpeg">
-  <source src="https://mirkofederico-prof.github.io/2LSA/GaLe/Simba%20La%20Rue%20-%20SON%20FATTO%20COS%C3%8C%20(Official%20Video).ogg" type="audio/ogg">
+  <source src="https://mirkofederico-prof.github.io/GaLe_4BLSA/Simba%20La%20Rue%20-%20SON%20FATTO%20COS%C3%8C%20(Official%20Video).mp3" type="audio/mpeg">
+  <source src="https://mirkofederico-prof.github.io/GaLe_4BLSA/Simba%20La%20Rue%20-%20SON%20FATTO%20COS%C3%8C%20(Official%20Video).ogg" type="audio/ogg">
   Il tuo browser non supporta l’audio.
 </audio>
 
 [[Continua|Produttore]]
-
 
 
 :: Nascondiglio sicuro {"position":"775,1400","size":"100,100"}
@@ -758,7 +756,6 @@ purché abbia il coraggio di rompere il silenzio e non ripetere gli stessi sbagl
   [[Accetto|MessaggioTelegram]]  
   [[Rifiuto|NoLav]]
 </div>
-
 
 
 :: StoryScript [script]
@@ -1769,8 +1766,6 @@ setup._flashMsg = function (text, type) {
   el.classList.add("show");
   setTimeout(() => el.classList.remove("show"), 1300);
 };
-
-
 
 :: StoryStylesheet [stylesheet]
 /************************************************************
